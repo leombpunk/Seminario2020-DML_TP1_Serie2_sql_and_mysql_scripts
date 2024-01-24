@@ -2,7 +2,7 @@
 <p style= "font-size: 18px;">Serie-2 de la guia de ejercicios prácticos de SQL realizados dentro de la Carrera de Analista de Sistemas de Computación (consta de 3 series).</p>
 <p style= "font-size: 18px;">Contiene los scripts de la base de datos para SQL Server y MySQL; y la solución a los ejercicios planteados más abajo.</p>
 <h2>Se piden realizar las siguientes operaciones en Sql-DML:</h2>
-<p><strong>2. Consultas básicas</strong></p>
+<p><strong>2. Consultas básicas con Where</strong></p>
 <p>2.1. Listar los títulos pertenecientes al editor 1389. Por cada fila, listar el título, el tipo y la
 fecha de publicación.</p>
 <p>2.2. Tomando las ventas mostrar el id de título, el título y el total de ventas que se obtiene
